@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54304e0a62e7ee94c98efe495c6c0add, type: 3}
+  m_Name: Nervous
+  m_EditorClassIdentifier: 
+  name: Nervous
+  description: 
+  Eye_Upper: {fileID: 21300132, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Eye_Upper_Position: {x: -0.031, y: 0.018, z: 0}
+  Eye_Upper_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Eye_Upper_Scale: {x: 1.1474258, y: 1.1474258, z: 1.1474258}
+  Eye_Under: {fileID: 21300120, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Eye_Under_Position: {x: -0.017, y: 0.034, z: 0}
+  Eye_Under_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Eye_Under_Scale: {x: 1, y: 1, z: 1}
+  Pupil_Upper: {fileID: 21300112, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Pupil_Upper_Position: {x: -0.015, y: 0.028, z: 0}
+  Pupil_Upper_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Pupil_Upper_Scale: {x: 1, y: 1, z: 1}
+  Pupil_Under: {fileID: 21300114, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Pupil_Under_Position: {x: -0.055, y: -0.012, z: 0}
+  Pupil_Under_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Pupil_Under_Scale: {x: 1, y: 1, z: 1}
+  Mouth: {fileID: 21300102, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Mouth_Position: {x: -0.011, y: 0.009, z: 0}
+  Mouth_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Mouth_Scale: {x: 1, y: 1, z: 1}

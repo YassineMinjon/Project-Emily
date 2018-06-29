@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54304e0a62e7ee94c98efe495c6c0add, type: 3}
+  m_Name: Sad
+  m_EditorClassIdentifier: 
+  name: Sad
+  description: 
+  Eye_Upper: {fileID: 21300126, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Eye_Upper_Position: {x: -0.05, y: 0.029, z: 0.0006}
+  Eye_Upper_Rotation: {x: 0.07184408, y: 0.99725556, z: 0.013345231, w: -0.011902822}
+  Eye_Upper_Scale: {x: -1.1445, y: 1.1445, z: 1.1445}
+  Eye_Under: {fileID: 21300128, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Eye_Under_Position: {x: -0.01, y: 0.17, z: 0}
+  Eye_Under_Rotation: {x: -0, y: -0, z: -0.11010422, w: 0.9939201}
+  Eye_Under_Scale: {x: 1, y: 1, z: 1}
+  Pupil_Upper: {fileID: 0}
+  Pupil_Upper_Position: {x: -0.012, y: -0.316, z: 0}
+  Pupil_Upper_Rotation: {x: 0.028420795, y: 0.13828227, z: 0.989985, w: 0}
+  Pupil_Upper_Scale: {x: 1, y: 1, z: 1}
+  Pupil_Under: {fileID: 0}
+  Pupil_Under_Position: {x: 0, y: 0, z: 0}
+  Pupil_Under_Rotation: {x: 0, y: 0, z: 1, w: 0}
+  Pupil_Under_Scale: {x: 1, y: 1, z: 1}
+  Mouth: {fileID: 21300102, guid: 71fd379f83ce9eb458342a9da0d50dbf, type: 3}
+  Mouth_Position: {x: -0.021, y: 0.008, z: 0}
+  Mouth_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  Mouth_Scale: {x: 1, y: 1, z: 1}
